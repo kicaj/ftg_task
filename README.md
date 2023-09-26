@@ -11,6 +11,8 @@ Inside container:
 - run `php artisan migrate`
 - run `php artisan db:seed`
 
-Check http://localhost:8888/public
+Check http://localhost:8888/public/api/users
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://elements.getpostman.com/redirect?entityId=6755146-f70e09c5-2a26-4ad8-8043-1f75fdb64a29&entityType=collection)
+## Testing
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://elements.getpostman.com/redirect?entityId=6755146-f70e09c5-2a26-4ad8-8043-1f75fdb64a29&entityType=collection)  
+Tip: If your host is different then you should set `HOST` variable of Postman collection's variables
